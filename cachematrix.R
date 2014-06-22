@@ -5,7 +5,7 @@
 
 makeCacheMatrix <- function(x = matrix()) {
 # Su test for this function
-  a < c(5,4,6 )
+  a < c(5,4,6 ,7)
 }
 
 
