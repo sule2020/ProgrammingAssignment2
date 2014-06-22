@@ -4,7 +4,8 @@
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
-
+# Su test for this function
+  a < c(5,4,6 )
 }
 
 
